@@ -51,7 +51,7 @@ The monthly export has 36 rows and total Delivered revenue of INR 88,282.
 2. Review suppliers and category mix for **Fruits & Vegetables** because its Delivered revenue is INR 2,210 below its INR 12,000 target and is classified as Below Target - Critical.
 
 ## Tableau Public
-**Live Tableau Public dashboard:** `PASTE_YOUR_PUBLIC_TABLEAU_URL_HERE`
+**Live Tableau Public dashboard:** `BigBasket Category Performance Diagnostic — Tableau Public`
 
 The dashboard should use `monthly_category_revenue.csv` and contain the required monthly time series, descending category bar chart with the three target-status tiers, four KPI cards, and a dashboard-wide interactive filter.
 
